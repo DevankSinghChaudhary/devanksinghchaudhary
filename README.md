@@ -17,4 +17,4 @@ Currently building projects focused on automation, AI systems, and developer too
 ## 💻 Tech Stack 
 
 ### Languages 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+[![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white)](https://www.python.otg)
