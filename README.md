@@ -8,3 +8,4 @@
     alt="Hackatime Stats"
   />
 </a>
+![Hakatime Badge](https://hackatime.hackclub.com/api/v1/badge/U0BRXACK41H/DevankSinghChaudhary/VPipeline)
