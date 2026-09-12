@@ -1,7 +1,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=devanksinghchaudhary&color=blue&style=flat-square)
 
 # HELLO
-## Devank Singh Chaudhary 
 > Always facinates about Space and Space Technology
 >
 <a href="https://hackatime.hackclub.com/">
