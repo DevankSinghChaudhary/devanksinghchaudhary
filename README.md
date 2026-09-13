@@ -1,5 +1,5 @@
 # HELLO
-> Always facinates about Space and Space Technology
+> Always fascinated by space and space technology.
 >
 <a href="https://hackatime.hackclub.com/">
   <img
