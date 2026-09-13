@@ -1,5 +1,3 @@
-![Visitors](https://komarev.com/ghpvc/?username=devanksinghchaudhary&color=blue&style=flat-square)
-
 # HELLO
 > Always facinates about Space and Space Technology
 >
@@ -17,5 +15,3 @@
         <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=devanksingh&timezone=Asia%2FCalcutta&labels=true&ranges=93%2C75%2C50&theme=catppuccin_light">
     </picture>
 </a>
-
-![VPipeline Badge](https://hackatime.hackclub.com/api/v1/badge/U0BRXACK41H/DevankSinghChaudhary/VPipeline)
