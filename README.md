@@ -3,7 +3,7 @@
 >
 <a href="https://hackatime.hackclub.com/">
   <img
-    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=66196&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=66196&api_domain=hackatime.hackclub.com&theme=chartreuse-dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=6"
     alt="Hackatime Stats"
   />
 </a>
