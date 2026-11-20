@@ -9,13 +9,15 @@
   />
 </a>
 
-<a href="https://hackatime.hackclub.com/@devank">
-  <img
-    src="./assets/button-hackatime-devank.svg"
-    width="120"
-    alt="Hackatime Profile"
-  />
-</a>
+<div>
+  <a href="https://hackatime.hackclub.com/@devank">
+    <img
+      src="./assets/button-hackatime-devank.svg"
+      width="120"
+      alt="Hackatime"
+    />
+  </a>
+</div>
 
 ## HACKATIME HEATMAP
 
