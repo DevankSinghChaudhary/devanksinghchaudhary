@@ -8,7 +8,9 @@
   />
 </a>
 
-[![Hackatime](./assets/button-hackatime-devank.svg)](https://hackatime.hackclub.com/@devank)
+<a href="https://hackatime.hackclub.com/@devank">
+  <img src="./assets/button-hackatime-devank.svg" width="120" alt="Hackatime">
+</a>
 
 ## Hackatime HeatMap
 <a href="https://heatmap.shymike.dev?id=66196&timezone=Asia%2FKolkata&labels=true&theme=dark&standalone=true" title="Click to view detailed data for each day!">
